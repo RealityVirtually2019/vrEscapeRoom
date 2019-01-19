@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: 4ca13bc2bba36174aba212ea160a2eaa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BookMark
+    100002: BookMark003
+    100004: BookMark004
+    100006: BookMark005
+    100008: BookMark006
+    100010: BookMark007
+    100012: BookMark008
+    100014: BookMark009
+    100016: BookMark010
+    100018: BookMark011
+    100020: BookMark012
+    100022: BookMark013
+    100024: BookMark014
+    100026: BookMark2
+    100028: BookMark3
+    100030: Bottle
+    100032: Bottle001
+    100034: Bottle004
+    100036: Bottle005
+    100038: Bottle006
+    100040: Bottle007
+    100042: Bottle008
+    100044: Bottle2
+    100046: Bottle3
+    100048: Bottle_inside
+    100050: Bottle_inside001
+    100052: Bottle_inside002
+    100054: Bottle_inside004
+    100056: Bottle_inside005
+    100058: Bottle_inside006
+    100060: Bottle_inside007
+    100062: Bottle_inside008
+    100064: Bottle_inside009
+    100066: Candle
+    100068: Candle001
+    100070: Candle002
+    100072: Chaos emeral
+    100074: Crystal_Part_1
+    100076: Crystal_Part_2
+    100078: Crystal_Part_3
+    100080: Crystal_Part_4
+    100082: Crystal_Part_8
+    100084: CrystalFlowerPylons
+    100086: CrystalFlowerPylons001
+    100088: CrystalFlowerPylons002
+    100090: CrystalFlowerPylons003
+    100092: CrystalFlowerPylons004
+    100094: ExtraLeaf
+    100096: ExtraLeaf001
+    100098: Flame
+    100100: Flame001
+    100102: Flame002
+    100104: Flame003
+    100106: FlowerDummy
+    100108: FlowerLeaf
+    100110: FlowerLeaf001
+    100112: FlowerLeaf002
+    100114: FlowerLeaf003
+    100116: FlowerLeaf004
+    100118: FlowerLeaf005
+    100120: FlowerMiddle
+    100122: FlowerPot
+    100124: flwptl
+    100126: flwptl001
+    100128: flwptl002
+    100130: flwptl003
+    100132: flwptl004
+    100134: flwptl005
+    100136: flwptl006
+    100138: flwptl007
+    100140: flwptl008
+    100142: flwptl009
+    100144: flwptl010
+    100146: flwptl011
+    100148: Gem
+    100150: Gem box hinges
+    100152: GemBed floor
+    100154: GemBed floor001
+    100156: Grima'sTruth
+    100158: NormalCandelHolder
+    100160: Paper
+    100162: Paper001
+    100164: Paper002
+    100166: Paper003
+    100168: Paper004
+    100170: Paper005
+    100172: Paper006
+    100174: Paper007
+    100176: StackOfPapers
+    100178: StackOfPapers001
+    100180: Table
+    100182: //RootNode
+    100184: ThinkcBook
+    100186: ThinkcBook001
+    100188: Thoron probably?
+    100190: Thoron probably?001
+    100192: Thoron probably?002
+    100194: Thoron probably?003
+    100196: Unusal gem
+    100198: Wax blob
+    400000: BookMark
+    400002: BookMark003
+    400004: BookMark004
+    400006: BookMark005
+    400008: BookMark006
+    400010: BookMark007
+    400012: BookMark008
+    400014: BookMark009
+    400016: BookMark010
+    400018: BookMark011
+    400020: BookMark012
+    400022: BookMark013
+    400024: BookMark014
+    400026: BookMark2
+    400028: BookMark3
+    400030: Bottle
+    400032: Bottle001
+    400034: Bottle004
+    400036: Bottle005
+    400038: Bottle006
+    400040: Bottle007
+    400042: Bottle008
+    400044: Bottle2
+    400046: Bottle3
+    400048: Bottle_inside
+    400050: Bottle_inside001
+    400052: Bottle_inside002
+    400054: Bottle_inside004
+    400056: Bottle_inside005
+    400058: Bottle_inside006
+    400060: Bottle_inside007
+    400062: Bottle_inside008
+    400064: Bottle_inside009
+    400066: Candle
+    400068: Candle001
+    400070: Candle002
+    400072: Chaos emeral
+    400074: Crystal_Part_1
+    400076: Crystal_Part_2
+    400078: Crystal_Part_3
+    400080: Crystal_Part_4
+    400082: Crystal_Part_8
+    400084: CrystalFlowerPylons
+    400086: CrystalFlowerPylons001
+    400088: CrystalFlowerPylons002
+    400090: CrystalFlowerPylons003
+    400092: CrystalFlowerPylons004
+    400094: ExtraLeaf
+    400096: ExtraLeaf001
+    400098: Flame
+    400100: Flame001
+    400102: Flame002
+    400104: Flame003
+    400106: FlowerDummy
+    400108: FlowerLeaf
+    400110: FlowerLeaf001
+    400112: FlowerLeaf002
+    400114: FlowerLeaf003
+    400116: FlowerLeaf004
+    400118: FlowerLeaf005
+    400120: FlowerMiddle
+    400122: FlowerPot
+    400124: flwptl
+    400126: flwptl001
+    400128: flwptl002
+    400130: flwptl003
+    400132: flwptl004
+    400134: flwptl005
+    400136: flwptl006
+    400138: flwptl007
+    400140: flwptl008
+    400142: flwptl009
+    400144: flwptl010
+    400146: flwptl011
+    400148: Gem
+    400150: Gem box hinges
+    400152: GemBed floor
+    400154: GemBed floor001
+    400156: Grima'sTruth
+    400158: NormalCandelHolder
+    400160: Paper
+    400162: Paper001
+    400164: Paper002
+    400166: Paper003
+    400168: Paper004
+    400170: Paper005
+    400172: Paper006
+    400174: Paper007
+    400176: StackOfPapers
+    400178: StackOfPapers001
+    400180: Table
+    400182: //RootNode
+    400184: ThinkcBook
+    400186: ThinkcBook001
+    400188: Thoron probably?
+    400190: Thoron probably?001
+    400192: Thoron probably?002
+    400194: Thoron probably?003
+    400196: Unusal gem
+    400198: Wax blob
+    2100000: Table
+    2100002: Thick candle_
+    2100004: Flame
+    2100006: Paper
+    2100008: ChaosEmerald
+    2100010: tall candle
+    2100012: No Name
+    2100014: CrystalPiece8
+    2100016: 'Material #36'
+    2100018: CrystalPiece3
+    2100020: CrystalPiece4
+    2100022: CrystalPiece1
+    2100024: Flower pot
+    2100026: FlowerPtl
+    2100028: FlowerMiddle
+    2100030: FlowerPylon
+    2100032: ExtraLeaf
+    2100034: FlowerLeaf
+    2100036: Flower Leaf 001
+    2100038: FlowerLeaf2
+    2100040: FlowerLeaf3
+    2100042: FlowerLeaf4
+    2100044: FlowerLeaf5
+    2100046: Gem box
+    2100048: GemBed
+    2100050: Gem
+    2100052: Gem box hinge
+    2100054: Bottle1
+    2100056: Bottle1Juice
+    2100058: Bottle2
+    2100060: Bottle2Juice
+    2100062: Bottle3
+    2100064: Bottle3Juice
+    2300000: BookMark
+    2300002: BookMark003
+    2300004: BookMark004
+    2300006: BookMark005
+    2300008: BookMark006
+    2300010: BookMark007
+    2300012: BookMark008
+    2300014: BookMark009
+    2300016: BookMark010
+    2300018: BookMark011
+    2300020: BookMark012
+    2300022: BookMark013
+    2300024: BookMark014
+    2300026: BookMark2
+    2300028: BookMark3
+    2300030: Bottle
+    2300032: Bottle001
+    2300034: Bottle004
+    2300036: Bottle005
+    2300038: Bottle006
+    2300040: Bottle007
+    2300042: Bottle008
+    2300044: Bottle2
+    2300046: Bottle3
+    2300048: Bottle_inside
+    2300050: Bottle_inside001
+    2300052: Bottle_inside002
+    2300054: Bottle_inside004
+    2300056: Bottle_inside005
+    2300058: Bottle_inside006
+    2300060: Bottle_inside007
+    2300062: Bottle_inside008
+    2300064: Bottle_inside009
+    2300066: Candle
+    2300068: Candle001
+    2300070: Candle002
+    2300072: Chaos emeral
+    2300074: Crystal_Part_1
+    2300076: Crystal_Part_2
+    2300078: Crystal_Part_3
+    2300080: Crystal_Part_4
+    2300082: Crystal_Part_8
+    2300084: CrystalFlowerPylons
+    2300086: CrystalFlowerPylons001
+    2300088: CrystalFlowerPylons002
+    2300090: CrystalFlowerPylons003
+    2300092: CrystalFlowerPylons004
+    2300094: ExtraLeaf
+    2300096: ExtraLeaf001
+    2300098: Flame
+    2300100: Flame001
+    2300102: Flame002
+    2300104: Flame003
+    2300106: FlowerLeaf
+    2300108: FlowerLeaf001
+    2300110: FlowerLeaf002
+    2300112: FlowerLeaf003
+    2300114: FlowerLeaf004
+    2300116: FlowerLeaf005
+    2300118: FlowerMiddle
+    2300120: FlowerPot
+    2300122: flwptl
+    2300124: flwptl001
+    2300126: flwptl002
+    2300128: flwptl003
+    2300130: flwptl004
+    2300132: flwptl005
+    2300134: flwptl006
+    2300136: flwptl007
+    2300138: flwptl008
+    2300140: flwptl009
+    2300142: flwptl010
+    2300144: flwptl011
+    2300146: Gem
+    2300148: Gem box hinges
+    2300150: GemBed floor
+    2300152: GemBed floor001
+    2300154: Grima'sTruth
+    2300156: NormalCandelHolder
+    2300158: Paper
+    2300160: Paper001
+    2300162: Paper002
+    2300164: Paper003
+    2300166: Paper004
+    2300168: Paper005
+    2300170: Paper006
+    2300172: Paper007
+    2300174: StackOfPapers
+    2300176: StackOfPapers001
+    2300178: Table
+    2300180: ThinkcBook
+    2300182: ThinkcBook001
+    2300184: Thoron probably?
+    2300186: Thoron probably?001
+    2300188: Thoron probably?002
+    2300190: Thoron probably?003
+    2300192: Unusal gem
+    2300194: Wax blob
+    3300000: BookMark
+    3300002: BookMark003
+    3300004: BookMark004
+    3300006: BookMark005
+    3300008: BookMark006
+    3300010: BookMark007
+    3300012: BookMark008
+    3300014: BookMark009
+    3300016: BookMark010
+    3300018: BookMark011
+    3300020: BookMark012
+    3300022: BookMark013
+    3300024: BookMark014
+    3300026: BookMark2
+    3300028: BookMark3
+    3300030: Bottle
+    3300032: Bottle001
+    3300034: Bottle004
+    3300036: Bottle005
+    3300038: Bottle006
+    3300040: Bottle007
+    3300042: Bottle008
+    3300044: Bottle2
+    3300046: Bottle3
+    3300048: Bottle_inside
+    3300050: Bottle_inside001
+    3300052: Bottle_inside002
+    3300054: Bottle_inside004
+    3300056: Bottle_inside005
+    3300058: Bottle_inside006
+    3300060: Bottle_inside007
+    3300062: Bottle_inside008
+    3300064: Bottle_inside009
+    3300066: Candle
+    3300068: Candle001
+    3300070: Candle002
+    3300072: Chaos emeral
+    3300074: Crystal_Part_1
+    3300076: Crystal_Part_2
+    3300078: Crystal_Part_3
+    3300080: Crystal_Part_4
+    3300082: Crystal_Part_8
+    3300084: CrystalFlowerPylons
+    3300086: CrystalFlowerPylons001
+    3300088: CrystalFlowerPylons002
+    3300090: CrystalFlowerPylons003
+    3300092: CrystalFlowerPylons004
+    3300094: ExtraLeaf
+    3300096: ExtraLeaf001
+    3300098: Flame
+    3300100: Flame001
+    3300102: Flame002
+    3300104: Flame003
+    3300106: FlowerLeaf
+    3300108: FlowerLeaf001
+    3300110: FlowerLeaf002
+    3300112: FlowerLeaf003
+    3300114: FlowerLeaf004
+    3300116: FlowerLeaf005
+    3300118: FlowerMiddle
+    3300120: FlowerPot
+    3300122: flwptl
+    3300124: flwptl001
+    3300126: flwptl002
+    3300128: flwptl003
+    3300130: flwptl004
+    3300132: flwptl005
+    3300134: flwptl006
+    3300136: flwptl007
+    3300138: flwptl008
+    3300140: flwptl009
+    3300142: flwptl010
+    3300144: flwptl011
+    3300146: Gem
+    3300148: Gem box hinges
+    3300150: GemBed floor
+    3300152: GemBed floor001
+    3300154: Grima'sTruth
+    3300156: NormalCandelHolder
+    3300158: Paper
+    3300160: Paper001
+    3300162: Paper002
+    3300164: Paper003
+    3300166: Paper004
+    3300168: Paper005
+    3300170: Paper006
+    3300172: Paper007
+    3300174: StackOfPapers
+    3300176: StackOfPapers001
+    3300178: Table
+    3300180: ThinkcBook
+    3300182: ThinkcBook001
+    3300184: Thoron probably?
+    3300186: Thoron probably?001
+    3300188: Thoron probably?002
+    3300190: Thoron probably?003
+    3300192: Unusal gem
+    3300194: Wax blob
+    4300000: Table
+    4300002: Candle
+    4300004: Flame001
+    4300006: Candle001
+    4300008: Flame002
+    4300010: Candle002
+    4300012: Flame003
+    4300014: Paper
+    4300016: Thoron probably?
+    4300018: Paper001
+    4300020: Grima'sTruth
+    4300022: Paper004
+    4300024: Paper005
+    4300026: Paper006
+    4300028: Paper007
+    4300030: Chaos emeral
+    4300032: NormalCandelHolder
+    4300034: Wax blob
+    4300036: Flame
+    4300038: Crystal_Part_8
+    4300040: Crystal_Part_4
+    4300042: Crystal_Part_3
+    4300044: Crystal_Part_2
+    4300046: Crystal_Part_1
+    4300048: FlowerPot
+    4300050: flwptl
+    4300052: flwptl001
+    4300054: flwptl002
+    4300056: flwptl003
+    4300058: FlowerMiddle
+    4300060: flwptl004
+    4300062: flwptl005
+    4300064: flwptl006
+    4300066: flwptl007
+    4300068: flwptl008
+    4300070: flwptl009
+    4300072: flwptl010
+    4300074: CrystalFlowerPylons
+    4300076: CrystalFlowerPylons001
+    4300078: CrystalFlowerPylons002
+    4300080: CrystalFlowerPylons003
+    4300082: CrystalFlowerPylons004
+    4300084: ExtraLeaf
+    4300086: ExtraLeaf001
+    4300088: flwptl011
+    4300090: FlowerLeaf
+    4300092: FlowerLeaf001
+    4300094: FlowerLeaf002
+    4300096: FlowerLeaf003
+    4300098: FlowerLeaf004
+    4300100: FlowerLeaf005
+    4300102: Unusal gem
+    4300104: GemBed floor
+    4300106: GemBed floor001
+    4300108: Gem
+    4300110: Gem box hinges
+    4300112: Bottle
+    4300114: Bottle_inside
+    4300116: ThinkcBook
+    4300118: BookMark
+    4300120: BookMark004
+    4300122: Paper003
+    4300124: BookMark2
+    4300126: BookMark3
+    4300128: BookMark003
+    4300130: BookMark005
+    4300132: BookMark006
+    4300134: BookMark007
+    4300136: BookMark008
+    4300138: BookMark009
+    4300140: BookMark010
+    4300142: BookMark011
+    4300144: BookMark012
+    4300146: BookMark013
+    4300148: BookMark014
+    4300150: Bottle001
+    4300152: Bottle_inside001
+    4300154: Bottle2
+    4300156: Bottle_inside002
+    4300158: Bottle3
+    4300160: Bottle_inside004
+    4300162: StackOfPapers
+    4300164: StackOfPapers001
+    4300166: Paper002
+    4300168: ThinkcBook001
+    4300170: Thoron probably?001
+    4300172: Bottle004
+    4300174: Bottle_inside005
+    4300176: Bottle005
+    4300178: Bottle_inside006
+    4300180: Bottle006
+    4300182: Bottle_inside007
+    4300184: Bottle007
+    4300186: Bottle_inside008
+    4300188: Bottle008
+    4300190: Bottle_inside009
+    4300192: Thoron probably?002
+    4300194: Thoron probably?003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

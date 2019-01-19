@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 8980880287c238840ad95d10da502871
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: "2 B\xFCcher"
+    100002: "2 B\xFCcher.001"
+    100004: "Alchemiegef\xE4\xDF.001"
+    100006: book 2
+    100008: book lenely
+    100010: buchstapel 1.001
+    100012: //RootNode
+    100014: buecherstape lonely
+    100016: "B\xFCcherregal"
+    100018: "Eckstapel b\xFCcher"
+    100020: "Sch\xFCssel mit Sprung.002"
+    100022: "W\xE4lzer"
+    100024: "W\xE4lzerstapel.001"
+    400000: "2 B\xFCcher"
+    400002: "2 B\xFCcher.001"
+    400004: "Alchemiegef\xE4\xDF.001"
+    400006: book 2
+    400008: book lenely
+    400010: buchstapel 1.001
+    400012: //RootNode
+    400014: buecherstape lonely
+    400016: "B\xFCcherregal"
+    400018: "Eckstapel b\xFCcher"
+    400020: "Sch\xFCssel mit Sprung.002"
+    400022: "W\xE4lzer"
+    400024: "W\xE4lzerstapel.001"
+    2100000: book lonely.002
+    2100002: 2 books.002
+    2100004: schuessel.002
+    2100006: buecherstape lonely.002
+    2100008: 3 books.002
+    2100010: buecherstapel.002
+    2100012: book 2.002
+    2100014: "Eckstapel b\xFCcher.002"
+    2100016: book.002
+    2100018: bottle.002
+    2100020: "B\xFCcherregal.003"
+    2300000: "2 B\xFCcher"
+    2300002: "2 B\xFCcher.001"
+    2300004: "Alchemiegef\xE4\xDF.001"
+    2300006: book 2
+    2300008: book lenely
+    2300010: buchstapel 1.001
+    2300012: buecherstape lonely
+    2300014: "B\xFCcherregal"
+    2300016: "Eckstapel b\xFCcher"
+    2300018: "Sch\xFCssel mit Sprung.002"
+    2300020: "W\xE4lzer"
+    2300022: "W\xE4lzerstapel.001"
+    3300000: "2 B\xFCcher"
+    3300002: "2 B\xFCcher.001"
+    3300004: "Alchemiegef\xE4\xDF.001"
+    3300006: book 2
+    3300008: book lenely
+    3300010: buchstapel 1.001
+    3300012: buecherstape lonely
+    3300014: "B\xFCcherregal"
+    3300016: "Eckstapel b\xFCcher"
+    3300018: "Sch\xFCssel mit Sprung.002"
+    3300020: "W\xE4lzer"
+    3300022: "W\xE4lzerstapel.001"
+    4300000: book lenely
+    4300002: "2 B\xFCcher.001"
+    4300004: "Sch\xFCssel mit Sprung.002"
+    4300006: buecherstape lonely
+    4300008: "W\xE4lzerstapel.001"
+    4300010: buchstapel 1.001
+    4300012: book 2
+    4300014: "Eckstapel b\xFCcher"
+    4300016: "W\xE4lzer"
+    4300018: "2 B\xFCcher"
+    4300020: "Alchemiegef\xE4\xDF.001"
+    4300022: "B\xFCcherregal"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 7a964eac99f805a4788f8286b76ecf0c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_low
+    100002: Bookpages_low
+    100004: //RootNode
+    100006: CenterGem_low
+    100008: Front_low
+    100010: Gems_high
+    100012: Object001
+    100014: Object002
+    100016: Pages_low
+    100018: Pins_low
+    100020: Side_low
+    400000: Back_low
+    400002: Bookpages_low
+    400004: //RootNode
+    400006: CenterGem_low
+    400008: Front_low
+    400010: Gems_high
+    400012: Object001
+    400014: Object002
+    400016: Pages_low
+    400018: Pins_low
+    400020: Side_low
+    2100000: Back_lowMat
+    2100002: Bookpages_lowMat
+    2100004: CenterGem_lowMat
+    2100006: Front_lowMat
+    2100008: Gems_highMat
+    2100010: Object001Mat
+    2100012: Object002Mat
+    2100014: Pages_lowMat
+    2100016: Pins_lowMat
+    2100018: Side_lowMat
+    2300000: Back_low
+    2300002: Bookpages_low
+    2300004: CenterGem_low
+    2300006: Front_low
+    2300008: Gems_high
+    2300010: Object001
+    2300012: Object002
+    2300014: Pages_low
+    2300016: Pins_low
+    2300018: Side_low
+    3300000: Back_low
+    3300002: Bookpages_low
+    3300004: CenterGem_low
+    3300006: Front_low
+    3300008: Gems_high
+    3300010: Object001
+    3300012: Object002
+    3300014: Pages_low
+    3300016: Pins_low
+    3300018: Side_low
+    4300000: Back_low
+    4300002: Bookpages_low
+    4300004: CenterGem_low
+    4300006: Front_low
+    4300008: Gems_high
+    4300010: Object001
+    4300012: Object002
+    4300014: Pages_low
+    4300016: Pins_low
+    4300018: Side_low
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

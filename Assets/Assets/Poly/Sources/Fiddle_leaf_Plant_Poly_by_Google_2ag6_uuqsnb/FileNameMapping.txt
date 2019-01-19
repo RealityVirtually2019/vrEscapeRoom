@@ -1,0 +1,2 @@
+FiddleleafFigPottedPlant.bin -> AF40526D0578CF4B62933C3C853CF91D.bin
+FiddleleafFigPottedPlant_BaseColor.png -> 51A3DBD31562E5998E4CD3729E8DD733.png
