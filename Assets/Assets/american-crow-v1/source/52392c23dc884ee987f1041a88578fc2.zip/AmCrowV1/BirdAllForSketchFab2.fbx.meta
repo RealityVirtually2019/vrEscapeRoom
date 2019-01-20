@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: e1af2ebec279b0041b8149136a410fa8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: allTailFeathersGroup
+    100002: AmericanCrow_v4textured:pCube6
+    100004: AmericanCrow_v4textured:polySurface1
+    100006: AmericanCrow_v4textured:polySurface2
+    100008: AmericanCrow_v4textured:polySurface3
+    100010: AmericanCrow_v4textured:polySurface4
+    100012: anim_controls_Grp
+    100014: //RootNode
+    100016: cntrl_head
+    100018: cntrl_L_ankle
+    100020: cntrl_neck_01
+    100022: cntrl_neck_02
+    100024: cntrl_neck_03
+    100026: cntrl_R_ankle
+    100028: cntrl_root
+    100030: cntrl_tail_01
+    100032: cntrl_tail_02
+    100034: cntrl_thumb_L
+    100036: cntrl_thumb_R
+    100038: cntrl_toe_L_b2
+    100040: cntrl_toe_L_c1
+    100042: cntrl_toe_L_c2
+    100044: cntrl_toe_R_b
+    100046: cntrl_toe_R_c
+    100048: cntrl_toe_R_c1
+    100050: global_rig_Grp
+    100052: ik_grp
+    100054: ikHandle1
+    100056: ikHandle2
+    100058: jnt_beak_01
+    100060: jnt_beak_02
+    100062: jnt_beakLowerJawROTATE
+    100064: jnt_eye_L
+    100066: jnt_eye_R
+    100068: jnt_head
+    100070: jnt_L_foot_root
+    100072: jnt_L_hip
+    100074: jnt_L_knee
+    100076: jnt_L_thumb_01
+    100078: jnt_L_thumb_02
+    100080: jnt_L_thumb_03
+    100082: jnt_L_thumb_04
+    100084: jnt_L_toe_01_a
+    100086: jnt_L_toe_01_b
+    100088: jnt_L_toe_01_c
+    100090: jnt_L_toe_02_a
+    100092: jnt_L_toe_02_b
+    100094: jnt_L_toe_02_c
+    100096: jnt_L_toe_03_a
+    100098: jnt_L_toe_03_b
+    100100: jnt_L_toe_03_c
+    100102: jnt_L_toe_04_a
+    100104: jnt_L_toe_04_b
+    100106: jnt_L_toe_04_c
+    100108: jnt_L_toe_root_a
+    100110: jnt_L_toe_root_c
+    100112: jnt_midsection
+    100114: jnt_neck_01
+    100116: jnt_neck_02
+    100118: jnt_R_foot_root
+    100120: jnt_R_hip
+    100122: jnt_R_knee
+    100124: jnt_R_thumb_01
+    100126: jnt_R_thumb_02
+    100128: jnt_R_thumb_03
+    100130: jnt_R_thumb_04
+    100132: jnt_R_toe_01_b
+    100134: jnt_R_toe_01_b 1
+    100136: jnt_R_toe_01_c
+    100138: jnt_R_toe_02_b
+    100140: jnt_R_toe_02_b 1
+    100142: jnt_R_toe_02_c
+    100144: jnt_R_toe_03_b
+    100146: jnt_R_toe_03_b 1
+    100148: jnt_R_toe_03_c
+    100150: jnt_R_toe_04_b
+    100152: jnt_R_toe_04_b 1
+    100154: jnt_R_toe_04_c
+    100156: jnt_R_toe_root_a
+    100158: jnt_R_toe_root_c
+    100160: jnt_Root
+    100162: jnt_tail_01
+    100164: jnt_tail_02
+    100166: jnt_tail_03END
+    100168: leg_R_aim
+    100170: leg_R_aim1
+    100172: lowerBeakStart
+    100174: lowerBeakTIP
+    100176: masterMesh
+    100178: robin_cntrl_master
+    100180: skeleton_Grp
+    100182: tail1
+    400000: allTailFeathersGroup
+    400002: AmericanCrow_v4textured:pCube6
+    400004: AmericanCrow_v4textured:polySurface1
+    400006: AmericanCrow_v4textured:polySurface2
+    400008: AmericanCrow_v4textured:polySurface3
+    400010: AmericanCrow_v4textured:polySurface4
+    400012: anim_controls_Grp
+    400014: //RootNode
+    400016: cntrl_head
+    400018: cntrl_L_ankle
+    400020: cntrl_neck_01
+    400022: cntrl_neck_02
+    400024: cntrl_neck_03
+    400026: cntrl_R_ankle
+    400028: cntrl_root
+    400030: cntrl_tail_01
+    400032: cntrl_tail_02
+    400034: cntrl_thumb_L
+    400036: cntrl_thumb_R
+    400038: cntrl_toe_L_b2
+    400040: cntrl_toe_L_c1
+    400042: cntrl_toe_L_c2
+    400044: cntrl_toe_R_b
+    400046: cntrl_toe_R_c
+    400048: cntrl_toe_R_c1
+    400050: global_rig_Grp
+    400052: ik_grp
+    400054: ikHandle1
+    400056: ikHandle2
+    400058: jnt_beak_01
+    400060: jnt_beak_02
+    400062: jnt_beakLowerJawROTATE
+    400064: jnt_eye_L
+    400066: jnt_eye_R
+    400068: jnt_head
+    400070: jnt_L_foot_root
+    400072: jnt_L_hip
+    400074: jnt_L_knee
+    400076: jnt_L_thumb_01
+    400078: jnt_L_thumb_02
+    400080: jnt_L_thumb_03
+    400082: jnt_L_thumb_04
+    400084: jnt_L_toe_01_a
+    400086: jnt_L_toe_01_b
+    400088: jnt_L_toe_01_c
+    400090: jnt_L_toe_02_a
+    400092: jnt_L_toe_02_b
+    400094: jnt_L_toe_02_c
+    400096: jnt_L_toe_03_a
+    400098: jnt_L_toe_03_b
+    400100: jnt_L_toe_03_c
+    400102: jnt_L_toe_04_a
+    400104: jnt_L_toe_04_b
+    400106: jnt_L_toe_04_c
+    400108: jnt_L_toe_root_a
+    400110: jnt_L_toe_root_c
+    400112: jnt_midsection
+    400114: jnt_neck_01
+    400116: jnt_neck_02
+    400118: jnt_R_foot_root
+    400120: jnt_R_hip
+    400122: jnt_R_knee
+    400124: jnt_R_thumb_01
+    400126: jnt_R_thumb_02
+    400128: jnt_R_thumb_03
+    400130: jnt_R_thumb_04
+    400132: jnt_R_toe_01_b
+    400134: jnt_R_toe_01_b 1
+    400136: jnt_R_toe_01_c
+    400138: jnt_R_toe_02_b
+    400140: jnt_R_toe_02_b 1
+    400142: jnt_R_toe_02_c
+    400144: jnt_R_toe_03_b
+    400146: jnt_R_toe_03_b 1
+    400148: jnt_R_toe_03_c
+    400150: jnt_R_toe_04_b
+    400152: jnt_R_toe_04_b 1
+    400154: jnt_R_toe_04_c
+    400156: jnt_R_toe_root_a
+    400158: jnt_R_toe_root_c
+    400160: jnt_Root
+    400162: jnt_tail_01
+    400164: jnt_tail_02
+    400166: jnt_tail_03END
+    400168: leg_R_aim
+    400170: leg_R_aim1
+    400172: lowerBeakStart
+    400174: lowerBeakTIP
+    400176: masterMesh
+    400178: robin_cntrl_master
+    400180: skeleton_Grp
+    400182: tail1
+    2100000: AmericanCrow_v4textured_Feather
+    2100002: AmericanCrow_v4textured_AmCrowTexture
+    2300000: AmericanCrow_v4textured:polySurface1
+    2300002: AmericanCrow_v4textured:polySurface2
+    2300004: AmericanCrow_v4textured:polySurface3
+    2300006: AmericanCrow_v4textured:polySurface4
+    2300008: tail1
+    3300000: AmericanCrow_v4textured:polySurface1
+    3300002: AmericanCrow_v4textured:polySurface2
+    3300004: AmericanCrow_v4textured:polySurface3
+    3300006: AmericanCrow_v4textured:polySurface4
+    3300008: tail1
+    4300000: AmericanCrow_v4textured:polySurface1
+    4300002: AmericanCrow_v4textured:polySurface2
+    4300004: AmericanCrow_v4textured:polySurface3
+    4300006: AmericanCrow_v4textured:polySurface4
+    4300008: tail1
+    4300010: masterMesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: masterMesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
