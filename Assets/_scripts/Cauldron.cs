@@ -83,50 +83,50 @@ public class Cauldron : MonoBehaviour
         //      - fire  red + hot + rough
         //       - Reappear black + cold + smooth
         //        - peptobismal red + mild + smooth
-        if (added.x == 1)
-        {
-            GameObject clone = Instantiate(effects[0], transform.position, transform.rotation) as GameObject;
-            clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
-        }
-        else if (added.x == -1)
-        {
-            GameObject clone = Instantiate(effects[1], transform.position, transform.rotation) as GameObject;
-            clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
-        }
-        else if (added.x == 0)
-        {
-            GameObject clone = Instantiate(effects[2], transform.position, transform.rotation) as GameObject;
-            clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
-        }
-        else if (added.x == 0)
+        //if (added.x == 1)
+        //{
+        //    GameObject clone = Instantiate(effects[0], transform.position, transform.rotation) as GameObject;
+        //    clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
+        //}
+        //else if (added.x == -1)
+        //{
+        //    GameObject clone = Instantiate(effects[1], transform.position, transform.rotation) as GameObject;
+        //    clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
+        //}
+        //else if (added.x == 0)
+        //{
+        //    GameObject clone = Instantiate(effects[2], transform.position, transform.rotation) as GameObject;
+        //    clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
+        //}
+        //else if (added.x == 0)
 
-        {
-            GameObject clone = Instantiate(effects[2], transform.position, transform.rotation) as GameObject;
-            clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
-        }
-        else if (added.y == -1)
+        //{
+        //    GameObject clone = Instantiate(effects[2], transform.position, transform.rotation) as GameObject;
+        //    clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
+        //}
+        //else if (added.y == -1)
 
-        {
-            GameObject clone = Instantiate(effects[4], transform.position, transform.rotation) as GameObject;
-            clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
-        }
-        else if (added.y == 1)
+        //{
+        //    GameObject clone = Instantiate(effects[4], transform.position, transform.rotation) as GameObject;
+        //    clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
+        //}
+        //else if (added.y == 1)
 
-        {
-            GameObject clone = Instantiate(effects[3], transform.position, transform.rotation) as GameObject;
-            clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
-        }
-        else if (added.z == -1)
+        //{
+        //    GameObject clone = Instantiate(effects[3], transform.position, transform.rotation) as GameObject;
+        //    clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
+        //}
+        //else if (added.z == -1)
 
-        {
-            GameObject clone = Instantiate(effects[6], transform.position, transform.rotation) as GameObject;
-            clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
-        }
-        else
-        {
-            GameObject clone = Instantiate(effects[3], transform.position, transform.rotation) as GameObject;
-            clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
-        }
+        //{
+        //    GameObject clone = Instantiate(effects[6], transform.position, transform.rotation) as GameObject;
+        //    clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
+        //}
+        //else
+        //{
+        //    GameObject clone = Instantiate(effects[3], transform.position, transform.rotation) as GameObject;
+        //    clone.GetComponent<DieTime>().lifetime = 0.5f; if (clone.GetComponent<Rigidbody>() != null) { clone.GetComponent<Rigidbody>().AddForce(Vector3.up * 5.0f * Time.deltaTime); }
+        //}
        
         //temp<> texture<> color
         mix = new Vector3(mix.x + added.x, mix.y + added.y, mix.z + added.z);
