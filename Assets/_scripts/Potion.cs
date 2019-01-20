@@ -18,23 +18,23 @@ public class Potion : MonoBehaviour
         
     }
     
-    public void OnTriggerEnter(Collider collision)
-    {
+    //public void OnTriggerEnter(Collider collision)
+    //{
         
 
-     }
-    public void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.tag == "Terrain" && spawnEffect != null)
-        {
-            GetComponent<Collider>().enabled = false;
-            Instantiate(spawnEffect, transform.position,transform.rotation);
-            Destroy(this.gameObject);
-        }
-        if (collision.transform.name == "iceblock(Clone)" && mix == Vector3.one)
-        {
-            Destroy(collision.gameObject);
-            Destroy(this.gameObject);
-        }
-    }
+    // }
+    //public void OnCollisionEnter(Collision collision)
+    //{
+    //    if (collision.gameObject.tag == "Terrain" && spawnEffect != null)
+    //    {
+    //        GetComponent<Collider>().enabled = false;
+    //        Instantiate(spawnEffect, transform.position,transform.rotation);
+    //        Destroy(this.gameObject);
+    //    }
+    //    if (collision.transform.name == "iceblock(Clone)" && mix == Vector3.one)
+    //    {
+    //        Destroy(collision.gameObject);
+    //        Destroy(this.gameObject);
+    //    }
+    //}
 }

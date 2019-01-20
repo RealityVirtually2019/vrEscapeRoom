@@ -26,7 +26,7 @@ public class Leveer : MonoBehaviour
             {
                 case 1:
                     cauldron.Flush();
-                    GameObject clone = Instantiate(indicator, transform.position + (transform.right.normalized * -2), transform.rotation) as GameObject;
+                    //GameObject clone = Instantiate(indicator, transform.position + (transform.right.normalized * -2), transform.rotation) as GameObject;
                     break;
                 case 2:
                     Application.LoadLevel(Application.loadedLevel);

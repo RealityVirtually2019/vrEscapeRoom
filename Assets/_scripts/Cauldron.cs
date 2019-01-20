@@ -171,15 +171,15 @@ public class Cauldron : MonoBehaviour
             if (mix.x > 0) { hot.active = true; }
             if (mix.x < 0) { cold.active = true; }
 
-            if (mix.y > 0) { liquid.transform.GetComponent<MeshFilter>().mesh = shapes[1]; }
-            else if (mix.y < 0) { liquid.transform.GetComponent<MeshFilter>().mesh = shapes[0]; }
-            else { liquid.transform.GetComponent<MeshFilter>().mesh = shapes[2]; }
+            //if (mix.y > 0) { liquid.transform.GetComponent<MeshFilter>().mesh = shapes[1]; }
+            //else if (mix.y < 0) { liquid.transform.GetComponent<MeshFilter>().mesh = shapes[0]; }
+            //else { liquid.transform.GetComponent<MeshFilter>().mesh = shapes[2]; }
           
-            if (mix.z > 0) { liquid.transform.GetComponent<Renderer>().material = colors[0]; }
-            else if (mix.z < 0) { liquid.transform.GetComponent<Renderer>().material = colors[1]; }
-            else { liquid.transform.GetComponent<Renderer>().material = colors[2]; }
+            //if (mix.z > 0) { liquid.transform.GetComponent<Renderer>().material = colors[0]; }
+            //else if (mix.z < 0) { liquid.transform.GetComponent<Renderer>().material = colors[1]; }
+            //else { liquid.transform.GetComponent<Renderer>().material = colors[2]; }
 
-            GameObject clone = Instantiate(collision.gameObject, transform.position + (transform.right.normalized * 2) + (transform.up.normalized * 2), transform.rotation) as GameObject;
+           // GameObject clone = Instantiate(collision.gameObject, transform.position + (transform.right.normalized * 2) + (transform.up.normalized * 2), transform.rotation) as GameObject;
             Destroy(collision.gameObject);
         }
         if (collision.gameObject.tag == "Wand")
