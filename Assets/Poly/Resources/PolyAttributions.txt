@@ -1,5 +1,11 @@
 This project uses the following items from Poly (http://poly.google.com):
 
+Title: Acid Potion
+Author: Alina Christenbury
+URL: https://poly.google.com/view/bfIoM_fhJsb
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: apple
 Author: Flashy Sprinkles
 URL: https://poly.google.com/view/3OmBvuJvGTL
@@ -30,6 +36,12 @@ URL: https://poly.google.com/view/8D23TVjSGnq
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Blue Shpere
+Author: Alina Christenbury
+URL: https://poly.google.com/view/5Lf5KRkn0P6
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Bookcase
 Author: Nikki Morin
 URL: https://poly.google.com/view/6p0f-u26DDh
@@ -55,14 +67,14 @@ License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
 Title: Candle
-Author: Jarlan Perez
-URL: https://poly.google.com/view/8apROCXjeN4
+Author: Poly by Google
+URL: https://poly.google.com/view/aH83BlSFxJu
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
 Title: Candle
-Author: Poly by Google
-URL: https://poly.google.com/view/aH83BlSFxJu
+Author: Jarlan Perez
+URL: https://poly.google.com/view/8apROCXjeN4
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -132,15 +144,45 @@ URL: https://poly.google.com/view/2ag6_uuqsnb
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Fire
+Author: Jakob Hippe
+URL: https://poly.google.com/view/1QpMTUO7P-G
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Fire Potion
+Author: Alina Christenbury
+URL: https://poly.google.com/view/9idnsXjGaA4
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Ginger root
 Author: Poly by Google
 URL: https://poly.google.com/view/7BRpTI0RVnW
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Green Sphere
+Author: Alina Christenbury
+URL: https://poly.google.com/view/68WcBVeJqOm
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: House plants
 Author: Poly by Google
 URL: https://poly.google.com/view/2aH4y6SWnXz
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Ice Potion
+Author: Alina Christenbury
+URL: https://poly.google.com/view/2AqUpWKwlUy
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Iceberg
+Author: Poly by Google
+URL: https://poly.google.com/view/9U2KjmvOJvY
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -228,6 +270,12 @@ URL: https://poly.google.com/view/bB08eJ6TTAG
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Potion
+Author: Bruwuce
+URL: https://poly.google.com/view/3FqCCzpqpds
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Pots and pans
 Author: Poly by Google
 URL: https://poly.google.com/view/diN4T5Jg4WR
@@ -243,6 +291,12 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Raven
 Author: Poly by Google
 URL: https://poly.google.com/view/7eQ51arTYDj
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Red Sphere
+Author: Alina Christenbury
+URL: https://poly.google.com/view/6u5S-LDdhX-
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -273,6 +327,12 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Spoon
 Author: Poly by Google
 URL: https://poly.google.com/view/9_F2bQrTAmM
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Star
+Author: Poly by Google
+URL: https://poly.google.com/view/0ddNZ3EsIhw
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -312,6 +372,12 @@ URL: https://poly.google.com/view/duXLJbjjdtZ
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Torch
+Author: Matt Insley
+URL: https://poly.google.com/view/duXLJbjjdtZ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Trapjaw Lily 2
 Author: Lee Mason
 URL: https://poly.google.com/view/fen5tCyl8UK
@@ -339,5 +405,11 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Wizard hat
 Author: Poly by Google
 URL: https://poly.google.com/view/7VVumyY7L_u
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Yellow Clouds
+Author: Alina Christenbury
+URL: https://poly.google.com/view/eaQNOl_5iYQ
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
