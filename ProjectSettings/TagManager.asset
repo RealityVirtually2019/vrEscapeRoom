@@ -12,6 +12,10 @@ TagManager:
   - bottlePotion
   - bottle
   - ingredient
+  - book
+  - chest
+  - Spawn
+  - Terrain
   layers:
   - Default
   - TransparentFX

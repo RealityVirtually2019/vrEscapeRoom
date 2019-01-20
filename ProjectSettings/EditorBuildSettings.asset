@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MASTER_FINAL_2.unity
+    guid: ed57132f6cc09cd4884e64e242414e70
   m_configObjects: {}
