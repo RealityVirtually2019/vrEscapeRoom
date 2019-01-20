@@ -90,6 +90,7 @@ GameObject:
   - component: {fileID: 4000723535909099283}
   - component: {fileID: 5099330978174368628}
   - component: {fileID: 4837366797478360842}
+  - component: {fileID: 2887961397125366749}
   m_Layer: 0
   m_Name: Key_Poly_by_Google_9_pU3cY465w
   m_TagString: Untagged
@@ -192,3 +193,15 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 40, y: 130, z: 20}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2887961397125366749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7710698553994349325}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 376860b9d12217342a2dd89afb4d3ba4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
