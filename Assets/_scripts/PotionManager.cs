@@ -5,8 +5,6 @@ using System.Collections;
 
 public class PotionManager : MonoBehaviour
 {
-    private bool isTopCollide = false;
-    private bool isBotCollide = false;
     public int currentColor = 0;
     public Material[] potionMaterial;
     private GameObject bottlePotion;
@@ -26,11 +24,10 @@ public class PotionManager : MonoBehaviour
     {
         if (col.gameObject.tag == "ingredient")
         {
-            currentColor = col.gameObject.GetComponent<Ingredient>().color;
-            GetComponent<Renderer>().material = potionMaterial[currentColor];
+          
         }else if(col.gameObject.tag == "bottle")
         {
-            bottlePotion.GetComponent<Renderer>().material = potionMaterial[currentColor];
+            
         };
     }
 }

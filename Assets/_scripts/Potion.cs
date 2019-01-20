@@ -5,11 +5,7 @@ using UnityEngine;
 public class Potion : MonoBehaviour
 {
     public Vector3 mix; //color,temp,texture
-    public GameObject liquid,newPotion;
-    public int currentColor;
-    public Material[] colors;
-    public Mesh[] shapes;
-    public Transform enviroment;
+    public GameObject spawnEffect;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,55 +17,24 @@ public class Potion : MonoBehaviour
     {
         
     }
-    public void MixTemp(int value)
-    {
-        switch (value)
-        { case 1:
-                break;
-            default:
-                break;
-        }
-    }
-    public void MixTexture(int value)
-    {
-        
-        switch (value)
-        {
-            case 1:
-                break;
-            default:
-                break;
-        }
-    }
-    public void MixColor(int value)
-    {
-        //positive or negative // zero is neutral
-         currentColor += value; 
-        if (currentColor > 5)
-        { currentColor = 0; }
-       // liquid.transform.GetComponent<Renderer>().material = colors[currentColor];
-       // liquid.transform.GetComponent<MeshFilter>().mesh = shapes[currentColor];
-        switch (value)
-        {
-            case 1:
-                break;
-            default:
-                break;
-        }
-    }
+    
     public void OnTriggerEnter(Collider collision)
     {
-        if (collision.gameObject.GetComponent<Ingredient>() != null)
-        {
-            MixColor(collision.gameObject.GetComponent<Ingredient>().color);
-            GameObject newPot = Instantiate(newPotion, transform.position + (transform.up.normalized) + (transform.right.normalized * -0.5f), transform.rotation) as GameObject;
-            newPot.transform.GetChild(0).GetComponent<Renderer>().material = colors[currentColor];
-            GameObject clone = Instantiate(collision.gameObject, transform.position + (transform.right.normalized * 2) + (transform.up.normalized * 2),transform.rotation) as GameObject;
-            clone.transform.localScale = collision.transform.localScale;
-            Destroy(collision.gameObject);
-        }
-        if (collision.gameObject.tag == "Wand")
-        { if (enviroment.localScale.x == 2) { enviroment.localScale = new Vector3(1.0f, 1.0f, 1.0f); } else { enviroment.localScale = new Vector3(2.0f, 2.0f, 2.0f); }  }
+        
 
      }
+    public void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.tag == "Terrain" && spawnEffect != null)
+        {
+            GetComponent<Collider>().enabled = false;
+            Instantiate(spawnEffect, transform.position,transform.rotation);
+            Destroy(this.gameObject);
+        }
+        if (collision.transform.name == "iceblock(Clone)" && mix == Vector3.one)
+        {
+            Destroy(collision.gameObject);
+            Destroy(this.gameObject);
+        }
+    }
 }
