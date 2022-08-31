@@ -1,5 +1,7 @@
 # vrEscapeRoom
 
+[Video](https://www.youtube.com/watch?v=j4SkaYllHz4)
+
 Abstract
 
 After walking home from a regular-old hackathon, you found yourself suddenly kidnapped and locked in a dark, mystical room! With only 10 minutes to spare, you'll need to use magic, potions, and your wits to explore and navigate through this intricate trap. Will you escape the witch's grotto?
